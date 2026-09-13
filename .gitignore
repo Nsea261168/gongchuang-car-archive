@@ -1,0 +1,25 @@
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Keil / embedded build outputs
+**/MDK-ARM/Objects/
+**/MDK-ARM/Listings/
+**/*.uvguix.*
+**/*.dep
+**/*.d
+**/*.o
+**/*.obj
+**/*.axf
+**/*.elf
+**/*.hex
+**/*.bin
+**/*.map
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+~$*

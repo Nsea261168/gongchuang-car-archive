@@ -1,0 +1,26 @@
+# ===== Keil MDK 编译产物与日志 =====
+MDK-ARM/CtrBoard-H7_FDCAN/
+MDK-ARM/DebugConfig/
+*.log
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.dep
+*.lst
+*.scvd
+*.bak
+
+# ===== Keil 本机用户配置 =====
+*.uvguix.*
+*.uvoptx
+JLinkSettings.ini
+
+# ===== 编辑器/系统文件 =====
+.vscode/
+.idea/
+*.swp
